@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Your Name</h1>
 <h3 align="center">Data Scientist | Machine Learning Engineer | AI Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" <img align="right" alt="AI" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">">
+<img align="right" alt="Coding" width="400"<img align="right" alt="Data Science" width="400"
+src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">>
 
 ### 🚀 About Me
 
