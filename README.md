@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Your Name</h1>
 <h3 align="center">Data Scientist | Machine Learning Engineer | AI Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh1a2d5N2R6eGx1bDJwaWFzbWJvM3J6bTFhYTV2OHl6N3JmY2J3eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/ai-grok-artificial-intelligence-computer-tech-gif-5752962292130467739">
 
 ### 🚀 About Me
 
