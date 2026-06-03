@@ -34,7 +34,7 @@
 
 ### 📊 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=tushar1208&theme=tokyo-night)
 
 ### 🔥 Featured Projects
 
